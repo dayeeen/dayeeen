@@ -6,8 +6,15 @@
 ## Hello Everyone! 👋
 Let me introduce myself, my name is Dian Saputra. I'm passionate about programming and software development. If you'd like to get to know me better or collaborate, feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/dayensptr/) account.
 
-## 🔥 Github Stats
+## 💻 My Stacks
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,kotlin,bootstrap,laravel,react,php,js,html,css,git,react,vscode,postgres,mysql&perline=20" />
+  </a>
+</p>
+
+## 🔥 Github Stats
 
 <table>
   <tr>
@@ -15,12 +22,6 @@ Let me introduce myself, my name is Dian Saputra. I'm passionate about programmi
     <td align="center"><a href="https://github.com/dayeeen"><img src="http://github-readme-streak-stats.herokuapp.com/?user=dayeeen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" width="100%" /></a></td>
   </tr>
 </table>
-
-<p align="left">
-  <a href="https://github.com/dayeeen">
-    <img height="250em" style="width: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dayeeen&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</p>
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
