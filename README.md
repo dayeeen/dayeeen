@@ -8,9 +8,24 @@ Let me introduce myself, my name is Dian Saputra. I'm passionate about programmi
 
 ## 💻 My Stacks
 
+<h4 align="center">Web Development</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,kotlin,bootstrap,laravel,react,php,js,html,css,git,react,vscode,postgres,mysql&perline=20" />
+    <img src="https://skillicons.dev/icons?i=php,js,laravel,react,tailwind,bootstrap,html,css,postgres,mysql&perline=20" />
+  </a>
+</p>
+
+<h4 align="center">Mobile Development</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,java,firebase,dart,flutter&perline=20" />
+  </a>
+</p>
+
+<h4 align="center">Others</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,notion,vscode,idea,python,tensorflow,git &perline=20" />
   </a>
 </p>
 
