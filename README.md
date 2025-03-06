@@ -3,8 +3,15 @@
 
 <img height="100%" width="100%" src="https://github.com/dayeeen/dayeeen/assets/88918777/01233459-d933-4436-a754-a0a9ccf3fb07"/>
 
-## Hello Everyone! 👋
-Let me introduce myself, my name is Dian Saputra. I'm passionate about programming and software development. If you'd like to get to know me better or collaborate, feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/dayensptr/) account.
+`Roses are red, violets are blue`
+
+`I love to code, and create something new! 🎨💻✨`
+ 
+Hi, I'm Dian Saputra! 👋
+
+A passionate UX/UI Designer & Software Engineer who loves crafting intuitive experiences and developing seamless applications. From designing user-friendly interfaces to writing clean, efficient code, I’m always eager to innovate and solve problems.
+
+Let’s connect and collaborate!
 
 ## 💻 My Stacks
 
